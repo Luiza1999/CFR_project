@@ -1,2 +1,2 @@
 # CFR_project
-NLP project aimed to analyzed word frequencies using Python
+NLP project aimed to analyze word frequencies using Python
